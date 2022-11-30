@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+
+
+
+.herosec{
+display: flex;     /* to make container horizontal */
+height:80vh;
+width:100vw;
+background-image: url("https://media.istockphoto.com/id/172800995/photo/turning-pages-of-a-book.jpg?s=612x612&w=0&k=20&c=WYUcFNBY7hCcQDO6V_y6rwCIgxx17mBtEmeDDrcPgr4=");
+
+/* background-image: cover;   */
+
+background-repeat: no-repeat;  /* to avoid image repeatation */
+background-size: cover;    /*to cover the whole background area with the image */
+}
+
+
+.left{
+    height:80vh;
+    width:60vw;
+    /* background-color: rgb(142, 48, 48); */
+    
+}
+
+
+.right{
+    height:80vh;
+    width:60vw;
+    /* background-color: rgb(83, 68, 68); */
+    
+}
