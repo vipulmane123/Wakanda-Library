@@ -2,7 +2,7 @@
 
 I have created a online book library wherein I have used HTML, CSS & JavaScript technologies.
 
-link to access: https://vipulmane6498.github.io/Wakanda_Library/
+link to access Web: https://vipulmane6498.github.io/Wakanda_Library/
 
 HomePage: Where you can add book by providing book name and author name:
 
