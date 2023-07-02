@@ -1,6 +1,6 @@
 #Wakanda_Library#
 
-I have created a online book library wherein I have used HTML, CSS & JavaScript technologies.
+I have created a online book library wherein I have used HTML, CSS & JavaScript Technologies.
 
 link to access Web: https://vipulmane6498.github.io/Wakanda_Library/
 
